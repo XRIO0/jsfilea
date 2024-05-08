@@ -51,8 +51,8 @@ fi
 
 echo "################################"
 echo "#                              #"
-echo "#           Mister-X           #"
-echo "#            v=1                #"
+echo "#           Shaista            #"
+echo "#            v=1               #"
 echo "################################"
 
 # Read URLs from the file and run SecretFinder.py on each
